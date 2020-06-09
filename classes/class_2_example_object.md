@@ -1,6 +1,6 @@
 # macy_porter
 
-##variables
+## variables
 * salary: 15.78
 * name: "Macy Porter"
 * job: "Waitress"

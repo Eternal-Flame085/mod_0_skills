@@ -1,4 +1,4 @@
-#table_23
+# table_23
 
 ## variables
 * table_number: 23
@@ -8,7 +8,7 @@
 * food_ordered: [combo_2, burrito, beef_tacos]
 * bill: 32.45
 
-##methods
+## methods
 * set_table_num: 23
 * table_seated: true
 * ordered: true
