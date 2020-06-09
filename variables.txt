@@ -9,4 +9,3 @@ Ruby
 7. songs = Array.new[" "," "]
 9. songs.shift()
 10. songs.length
-11. 
