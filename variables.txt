@@ -1,0 +1,12 @@
+Ruby
+
+1. food = "Pizza"
+2. is_delicious = true
+3. food = "spaghetti"
+4. num2 = 67
+5. num7 = 55
+6. quotient = num7 / num2
+7. songs = Array.new[" "," "]
+9. songs.shift()
+10. songs.length
+11. 
