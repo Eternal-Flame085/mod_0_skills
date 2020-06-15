@@ -1,16 +1,15 @@
 # macy_porter
 
 ## variables
-* salary: 15.78
-* name: "Macy Porter"
-* job: "Waitress"
-* hours_worked: 3
+* salary: 00.00
+* name: "Rebecca Alston"
+* job: "busser"
+* hours_worked: 0
 
 ## methods
-* set_salary: 15.78
-* set_name: "Macy Porter"
-* set_job: "Waitress"
-* add_hour: 2 #=> 3
-* hours_worked: 3
+* give_raise(1.00): 14.75 #=> 15.78
+* change_name("Rebecca Porter"): "Rebecca Alston" #=> "Rebecca Porter"
+* change_position("Waitress"): "busser" #=> "Waitress"
+* add_hour: 0 #=> 1
 * clock_in: false #=> true
-clock_out: true #=> false
+* clock_out: true #=> false
