@@ -1,10 +1,10 @@
-# Employees
+# Employee
 
 ## variables
 * salary (float)
 * name (String)
 * job (string)
-* hours_worked (int)
+* hours_worked (integer)
 * clocked_in (boolean)
 
 ## methods
