@@ -1,4 +1,4 @@
-# macy_porter
+# employee_one
 
 ## variables
 * salary: 00.00
