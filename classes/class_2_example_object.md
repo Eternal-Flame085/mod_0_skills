@@ -3,8 +3,9 @@
 ## variables
 * salary: 00.00
 * name: "Rebecca Alston"
-* job: "busser"
+* position: "busser"
 * hours_worked: 0
+* clocked_in: false
 
 ## methods
 * give_raise(1.00): 14.75 #=> 15.78
